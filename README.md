@@ -5,4 +5,4 @@ This repository contains materials and demo for the regression calibration works
 
 Please download the data folder before running the code.
 
-[Download the data folder](data/shortcourse_data.zip)
+[Download the data folder](data/ENAR short course.zip)

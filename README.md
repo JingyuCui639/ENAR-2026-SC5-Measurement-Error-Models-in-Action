@@ -40,15 +40,6 @@ Participants will also learn how to apply measurement error correction in differ
 
 These methods will be illustrated through practical examples.
 
----
-
-# ⬇️ Download Course Materials
-
-Click the button below to download all files required for the demo.
-
-[![Download Materials](https://img.shields.io/badge/Download-Course%20Materials-blue?style=for-the-badge)](ENAR_short_course.zip)
-
-After downloading, unzip the file to access the course materials.
 
 ---
 
@@ -68,9 +59,46 @@ https://posit.co/download/rstudio-desktop/
 
 ---
 
-## Step 2: Download the course files
+## Step 2: ⬇️ Download Course Materials
 
-Download the compressed file:
+Click the button below to download all files required for the demo.
 
+[![Download Materials](https://img.shields.io/badge/Download-Course%20Materials-blue?style=for-the-badge)](data/ENAR_short_course.zip)
 
-[Download the data folder](data/ENAR_short_course.zip)
+After downloading, unzip the file to access the course materials.
+
+## Step 3: Unzip the folder
+
+After unzipping, the folder will contain the following files:
+
+| File | Description |
+|-----|-------------|
+| `part1_main.dat` | Main study dataset |
+| `part1_valid.dat` | External validation dataset |
+| `regCalibCRS.R` | R function implementing regression calibration using the **imputation method** |
+| `regCalibRSW.R` | R function implementing regression calibration using the **deattenuation factor method** |
+| `Regression Calibration demo.qmd` | Quarto document containing the demonstration code |
+
+---
+
+## Step 4: Run the demo
+
+1. Open the file: Regression Calibration demo.qmd in **RStudio**
+
+---
+
+# 📌 Notes
+
+- All datasets and functions required for the demo are included.
+- No additional downloads are required.
+- The demo code is designed to be run interactively during the course.
+
+---
+
+# 👨‍🏫 Short Course
+
+**Measurement Error Models in Action: The Latest Methods and Their Applications in Nutrition and Environmental Health**
+
+ENAR Short Course
+
+---

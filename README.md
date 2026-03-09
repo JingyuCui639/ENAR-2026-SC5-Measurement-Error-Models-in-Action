@@ -98,6 +98,11 @@ After unzipping, the folder will contain the following files:
 
 **Measurement Error Models in Action: The Latest Methods and Their Applications in Nutrition and Environmental Health**
 
-ENAR Short Course
+---
+
+# Also See
+The documentation for 
+*  [regCalibCRS](docs/refCalibCRS.md) to implement imputation-based regression calibration method;
+*  [regCalibRSW](docs/regCalibRSW.md) to implement deattenuation factor method.
 
 ---

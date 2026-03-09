@@ -283,7 +283,7 @@ rcim <- regCalibCRS(
 
 ## See Also
 
-- `regCalibRSW()`[docs/regCalibRSW.md] for regression calibration using the deattenuation-factor method.
+- `regCalibRSW()`(docs/regCalibRSW.md) for regression calibration using the deattenuation-factor method.
 
 ---
 

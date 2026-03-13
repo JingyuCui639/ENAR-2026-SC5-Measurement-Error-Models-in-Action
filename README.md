@@ -27,7 +27,7 @@ This repository contains the **demo code and datasets** used in the short course
 
 **Molin Wang** is Associate Professor of Epidemiology and Biostatistics at the Harvard T.H. Chan School of Public Health. Her research addresses statistical challenges arising in large epidemiologic cohort studies, with particular emphasis on measurement error methods and their applications in nutritional and environmental epidemiology. She serves as lead statistician for several major cohort studies including the Nurses’ Health Study II and the Health Professionals Follow-up Study. 
 
-![Jingyu Cui](images/CS5-Jingyu-Cui.jpg)
+![Jingyu Cui](images/SC5-Jingyu-Cui.jpg)
 
 **Jingyu Cui** is a Postdoctoral Associate in the Department of Biostatistics at the Yale School of Public Health. His research focuses on developing statistical methods for complex and high-dimensional data, including measurement error models, adaptive study designs for clinical trials, and statistical inference under imperfect data. 
 

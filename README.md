@@ -92,10 +92,10 @@ After unzipping, the folder will contain the following files:
 |-----|-------------|
 | `main_data_external.csv` | Main study dataset |
 | `valid_data_external.csv` | External validation dataset |
-| `main_data_internal_valid.csv`| Main study data with internal validation data |
 | `regCalibCRS.R` | R function implementing regression calibration using the **imputation method** |
 | `regCalibRSW.R` | R function implementing regression calibration using the **deattenuation factor method** |
-| `Regression Calibration demo.qmd` | Quarto document containing the demonstration code |
+| 'testLinear.R' | R function testing the linearity of measurement error and outcome models |
+| `Regression Calibration demo2.qmd` | Quarto document containing the demonstration code |
 
 ---
 

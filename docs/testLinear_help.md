@@ -1,4 +1,4 @@
-# testLinear
+# `testLinear`
 
 **Wenze Tang** and **Molin Wang**  
 *Harvard T.H. Chan School of Public Health* 

@@ -31,7 +31,7 @@ This repository contains the **demo code and datasets** used in the short course
 ## 📚 Short Course Agenda
 
 ### 1. Impact of Measurement Error and Overview of Correction Methods  [1:00–1:30 PM]  
-- **Raymond J. Carroll** *[Slides]([/course_material/Introduction_of_measurement_error_Raymond/ENAR_2026_Introduction_RJC.pdf](https://github.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/blob/main/course_material/Introduction_of_measurement_error_Raymond/ENAR_2026_Introduction_RJC.pdf))*  
+- **Raymond J. Carroll** *[Slides](https://github.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/blob/main/course_material/Introduction_of_measurement_error_Raymond/ENAR_2026_Introduction_RJC.pdf)*  
 - **Donna Spiegelman** *(Slides from Dropbox folder: "Intro Donna")*  
 
 ### 2. Main Study/Validation Study Designs and Main Study/Reliability Study Designs  [ 1:30–2:00 PM]  

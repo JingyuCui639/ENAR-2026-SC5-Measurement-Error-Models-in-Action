@@ -1,11 +1,8 @@
 # `regCalibCRS`
 
 
-Wenze Tang 
-(Harvard T.H. Chan School of Public Health)
-
-Molin Wang
-(Harvard T.H. Chan School of Public Health)
+**Wenze Tang** and **Molin Wang**  
+*Harvard T.H. Chan School of Public Health*  
 
 Correct regression coefficients for continuous surrogates using regression calibration
 

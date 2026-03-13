@@ -30,27 +30,27 @@ This repository contains the **demo code and datasets** used in the short course
 
 ## 📚 Short Course Agenda
 
-### 1. Impact of Measurement Error and Overview of Correction Methods  [**Time:** 1:00–1:30 PM]  
+### 1. Impact of Measurement Error and Overview of Correction Methods  [1:00–1:30 PM]  
 - **Raymond J. Carroll** *(Slides downloaded from Overleaf)*  
 - **Donna Spiegelman** *(Slides from Dropbox folder: "Intro Donna")*  
 
-### 2. Main Study/Validation Study Designs and Main Study/Reliability Study Designs  [**Time:** 1:30–2:00 PM]  
+### 2. Main Study/Validation Study Designs and Main Study/Reliability Study Designs  [ 1:30–2:00 PM]  
 - **Donna Spiegelman** *(Slides from Dropbox folder: "Study design--Donna")*  
 
-### 3. Regression Calibration Methods for Adjusting Measurement Error Bias  [**Time:** 2:00–3:00 PM]  
+### 3. Regression Calibration Methods for Adjusting Measurement Error Bias  [2:00–3:00 PM]  
 - **Molin Wang** *(Slides downloaded from Overleaf)*  
 
-### 4. Hands-on Lab: R Examples from Nutritional and Environmental Epidemiology  [**Time:** 3:00–3:45 PM]  
+### 4. Hands-on Lab: R Examples from Nutritional and Environmental Epidemiology  [ 3:00–3:45 PM]  
 - **Jingyu Cui**  
 
 ### Break  [**Time:** 3:45–4:00 PM]  
 
-### 5. Machine Learning Methods for Measurement Error Correction  [**Time:** 4:00–4:30 PM]  
+### 5. Machine Learning Methods for Measurement Error Correction  [4:00–4:30 PM]  
 - **Molin Wang** *(Slides from Dropbox folder: "Regression calibration--Molin/DML_ENAR2026.pptx, DML_RC_NO.pptx")*  
   - Robust confounder control in higher-dimensional settings *(Gang’s paper)*  
   - Variable selection in regression calibration, with discussion of alternative approaches based on our work with Wenze  
 
-### 6. Applications in Nutritional and Environmental Epidemiology  [**Time:** 4:30–5:00 PM]  
+### 6. Applications in Nutritional and Environmental Epidemiology  [4:30–5:00 PM]  
 - **Donna Spiegelman** *(Slides from Dropbox folder: "case studies--donna")*
 ---
 

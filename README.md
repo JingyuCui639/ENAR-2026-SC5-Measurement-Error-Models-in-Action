@@ -1,11 +1,7 @@
 # Measurement Error Models in Action  
 ## The Latest Methods and Their Applications in Nutrition and Environmental Health
 
-
-![ENAR](https://img.shields.io/badge/event-ENAR%20Short%20Course-orange)
-![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen)
-
-# 👨‍🏫 Welcome to the repository for the short course!
+## 👨‍🏫 Welcome to the repository for the short course!
 
 
 This repository contains the **demo code and datasets** used in the short course. The materials provide hands-on examples demonstrating how to implement modern measurement error correction methods in **R**.

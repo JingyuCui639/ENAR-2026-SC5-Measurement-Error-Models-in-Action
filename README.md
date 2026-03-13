@@ -32,26 +32,16 @@ This repository contains the **demo code and datasets** used in the short course
 
 In this short course, participants will gain practical experience applying measurement error correction methods in epidemiologic and nutritional studies.
 
-### 1️⃣ Apply measurement error correction methods in R
-
-Participants will learn how to correct measurement error using two approaches:
+### 1️⃣ How to correct measurement error using two approaches.
 
 - **Imputation-based regression calibration** by R function [regCalibCRS](docs/regCalibCRS_help.md) (Wenze Tang, Molin Wang)
 - **Deattenuation factor method** by R function [regCalibRSW](docs/regCalibRSW_help.md) (Wenze Tang, Molin Wang)
 
-Both methods will be implemented using R functions provided in this repository.
-
----
-
-### 2️⃣ Handle different validation study designs
+### 2️⃣ Consider **nonlinearity** in the measurement error model.
 
 Participants will also learn how to apply measurement error correction in different scenarios, including:
 
 - Correcting measurement error in **exposure variables**
-- Consider **nonlinearity** in the measurement error model.
-
-These methods will be illustrated through practical examples.
-
 
 ---
 

@@ -3,13 +3,6 @@
 **Wenze Tang** and **Molin Wang**  
 *Harvard T.H. Chan School of Public Health*  
 
-## Name
-
-`regCalibRSW` — Regression calibration using the deattenuation factor method for general linear models with mismeasured continuous exposures and covariates.
-
-## Title
-
-Correct measurement error in continuous exposures/covariates and obtain corrected regression coefficients, standard errors, p-values, and covariance matrices.
 
 ## Description
 

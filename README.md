@@ -74,7 +74,7 @@ https://posit.co/download/rstudio-desktop/
 
 Click the button below to download all files required for the demo.
 
-[![Download Materials](https://img.shields.io/badge/Download-Course%20Materials-blue?style=for-the-badge)](course_material/ENAR_short_course.zip)
+[![Download Materials](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/ENAR_short_course.zip)
 
 After downloading, unzip the file to access the course materials.
 

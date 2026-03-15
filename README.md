@@ -73,7 +73,7 @@ https://posit.co/download/rstudio-desktop/
 )
 
 **⚠ Data Use Notice:**  
-The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.
+**The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.**
 
 #### 3. Unzip the folder
 

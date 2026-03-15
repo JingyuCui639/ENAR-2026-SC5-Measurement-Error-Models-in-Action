@@ -70,7 +70,7 @@ https://posit.co/download/rstudio-desktop/
 
 #### 2. Download R Dode
 
-[Download Materials](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/4-R_lab.zip
+[Download R Code](https://raw.githubusercontent.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/main/course_material/4-R_lab.zip
 )
 
 

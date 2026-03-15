@@ -57,7 +57,7 @@ This repository contains the **demo code and datasets** used in the short course
 - **Donna Spiegelman** *[Slides](https://github.com/JingyuCui639/ENAR-2026-SC5-Measurement-Error-Models-in-Action/tree/main/course_material/6-Case_studies)*
 ---
 
-## ⚙️ Setup Instructions For R Seccion
+## ⚙️ Setup Instructions for R Seccion
 
 #### 1. Install R and RStudio
 Please ensure that the following software is installed on your computer.

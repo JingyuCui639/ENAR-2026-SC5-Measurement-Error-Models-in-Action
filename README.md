@@ -76,14 +76,6 @@ https://posit.co/download/rstudio-desktop/
 **⚠ Data Use Notice:**  
 The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.
 
-<div style="border:2px solid red; padding:12px; border-radius:6px;">
-<span style="color:red; font-size:20px; font-weight:bold;">
-⚠ Data Use Notice
-</span>
-
-The dataset provided here is for instructional use in this short course only and may not be copied, redistributed, or used for any other purpose.
-</div>
-
 #### 3. Unzip the folder
 
 After unzipping the file, the folder will contain the following files:
